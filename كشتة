@@ -45,11 +45,13 @@ a.button:hover {
   <img src="logo.png" class="logo" alt="Kashta Logo">
   <h1>كشـتة | Kashta</h1>
 
-  <a class="button" href="https://wa.me/XXXXXXXXXXX" target="_blank">📞 واتساب</a>
-  <a class="button" href="https://maps.google.com/?q=XXXX" target="_blank">📍 الموقع</a>
-  <a class="button" href="https://instagram.com/XXXX" target="_blank">📷 إنستغرام</a>
-  <a class="button" href="https://facebook.com/XXXX" target="_blank">📘 فيسبوك</a>
-  <a class="button" href="https://tiktok.com/@XXXX" target="_blank">🎵 تيك توك</a>
+  <a class="button" href="https://wa.me/9647501711734" target="_blank">💬 واتساب 1</a>
+  <a class="button" href="https://wa.me/9647715939273" target="_blank">💬 واتساب 2</a>
+  <a class="button" href="tel:+9647729434304">📞 اتصال مباشر</a>
+
+  <a class="button" href="https://www.facebook.com/share/1DU6fML3JC/" target="_blank">📘 فيسبوك</a>
+  <a class="button" href="https://www.instagram.com/kashta70_" target="_blank">📷 إنستغرام</a>
+  <a class="button" href="https://www.tiktok.com/@kashta70" target="_blank">🎵 تيك توك</a>
 </div>
 </body>
 </html>
